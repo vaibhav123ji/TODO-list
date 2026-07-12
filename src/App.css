@@ -1,0 +1,27 @@
+body{
+    background:#f4f4f4;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+}
+
+button{
+    transition:.3s;
+}
+
+button:hover{
+    transform:scale(1.05);
+}
+
+input[type="checkbox"]{
+    width:20px;
+    height:20px;
+    cursor:pointer;
+}
+
+.text-decoration-line-through{
+    color:gray;
+    font-weight:bold;
+}
